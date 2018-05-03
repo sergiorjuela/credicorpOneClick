@@ -1,0 +1,9 @@
+#Thu May 03 12:31:37 COT 2018
+ask.before.rebuild=prompt
+include.rule.names=false
+include.module.ids=false
+eclipse.preferences.version=1
+diable.project.classloader=false
+marker.amount.limit=100
+limit.markers.per.resource=false
+warn.before.losing.filesets=true

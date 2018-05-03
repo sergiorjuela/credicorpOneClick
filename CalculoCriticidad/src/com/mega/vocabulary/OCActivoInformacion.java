@@ -1,0 +1,83 @@
+package com.mega.vocabulary;
+
+public class OCActivoInformacion implements ElementInDiagram {
+/*MetaClass ID*/
+    public static String ID = "~auEyqK)kQXAO[OC_Activo_Informacion]";
+/*MetaAttributes*/
+    public static final String MA_OCActivoTipo = "~m2dFVaamQzmR[X]";
+    public static final String MAV_OCActivoTipo_OCActivoInformacion = "2";
+    public static final String MAV_OCActivoTipo_OCActivoSoftware = "6";
+    public static final String MAV_OCActivoTipo_OCActivoFSico = "1";
+    public static final String MAV_OCActivoTipo_OCActivoServicio = "5";
+    public static final String MAV_OCActivoTipo_OCActivoRecursoHumano = "4";
+    public static final String MAV_OCActivoTipo_OCActivoIntangible = "3";
+    public static final String MA_OCActivoTipoOrigen = "~c1dFmmamQ1BS[X]";
+    public static final String MAV_OCActivoTipoOrigen_OCActivoOrigenInterno = "OAI";
+    public static final String MAV_OCActivoTipoOrigen_OCActivoOrigenExterno = "OAE";
+    public static final String MA_OCActivoFechaActivo = "~Z0dF6ramQLLS[X]";
+    public static final String MA_OCActivoDisponibilidad = "~h2dFzvamQLQS[X]";
+    public static final String MAV_OCActivoDisponibilidad_OCActivoDMuyBajo = "1";
+    public static final String MAV_OCActivoDisponibilidad_OCActivoDBajo = "2";
+    public static final String MAV_OCActivoDisponibilidad_OCActivoDMedio = "3";
+    public static final String MAV_OCActivoDisponibilidad_OCActivoDAlto = "4";
+    public static final String MAV_OCActivoDisponibilidad_OCActivoDMuyAlto = "5";
+    public static final String MA_OCActivoIntegridad = "~62dFhyamQ1jS[X]";
+    public static final String MAV_OCActivoIntegridad_OCActivoIMuyBajo = "1";
+    public static final String MAV_OCActivoIntegridad_OCActivoIBajo = "2";
+    public static final String MAV_OCActivoIntegridad_OCActivoIMedio = "3";
+    public static final String MAV_OCActivoIntegridad_OCActivoIAlto = "4";
+    public static final String MAV_OCActivoIntegridad_OCActivoIMuyAlto = "5";
+    public static final String MA_OCActivoConfidencialidad = "~K9RKtJbmQjwF[X]";
+    public static final String MAV_OCActivoConfidencialidad_OCActivoCMuyBajo = "1";
+    public static final String MAV_OCActivoConfidencialidad_OCActivoCBajo = "2";
+    public static final String MAV_OCActivoConfidencialidad_OCActivoCMedio = "3";
+    public static final String MAV_OCActivoConfidencialidad_OCActivoCAlto = "4";
+    public static final String MAV_OCActivoConfidencialidad_OCActivoCMuyAlto = "5";
+    public static final String MA_OCActivoRepudio = "~FuqLyUbmQ5XA[X]";
+    public static final String MAV_OCActivoRepudio_OCActivoRMuyBajo = "RMB";
+    public static final String MAV_OCActivoRepudio_OCActivoRBajo = "RB";
+    public static final String MAV_OCActivoRepudio_OCActivoRMedio = "RM";
+    public static final String MAV_OCActivoRepudio_OCActivoRAlto = "RA";
+    public static final String MAV_OCActivoRepudio_OCActivoRMuyAlto = "RMA";
+    public static final String MA_OCActivoMedioSoporte = "~ExqLiZbmQvvA[X]";
+    public static final String MAV_OCActivoMedioSoporte_OCActivoMedioSoporteAnalogo = "MSA";
+    public static final String MAV_OCActivoMedioSoporte_OCActivoMedioSoporteDigital = "MSD";
+    public static final String MAV_OCActivoMedioSoporte_OCActivoMedioSoporteElectronico = "MSE";
+    public static final String MA_OCActivoEstadoAI = "~gLfN(7cmQHF2[X]";
+    public static final String MAV_OCActivoEstadoAI_OCActivoEstadoA = "AEA";
+    public static final String MAV_OCActivoEstadoAI_OCActivoEstadoI = "AEI";
+    public static final String MA_OCActivoNivelCriticidad = "~scpkfshmQzGC[X]";
+/*MetaAssociationEnds*/
+    public static final String MAE_PersonSystem = "~HeS0(80lQ5(3[OC_Activo_Informacion.Person (System)]";
+    public static final String MAE_PersonSystem1 = "~ufS0S90lQb24[OC_Activo_Informacion.Person (System)-1]";
+    public static final String MAE_OrgUnit = "~XFd01C0lQHkR[OC_Activo_Informacion.Org-Unit]";
+    public static final String MAE_Site = "~AEd0FD0lQvpR[OC_Activo_Informacion.Site]";
+    public static final String MAE_Risk = "~sNfOLGcmQv2F[OC_Activo_Informacion.Risk]";
+    public static final String MAE_Vulnerability = "~KMfOqVcmQbUF[OC_Activo_Informacion.Vulnerability]";
+    public static final String MAE_Incident = "~ANfOoYcmQzbF[OC_Activo_Informacion.Incident]";
+    public static final String MAE_FunctionalProcess = "~3MfOLocmQz2G[OC_Activo_Informacion.Functional Process]";
+    public static final String MAE_BusinessProcess = "~PNfObocmQL7G[OC_Activo_Informacion.Business Process]";
+    public static final String MAE_Objective = "~7MfOL3dmQvUG[OC_Activo_Informacion.Objective]";
+    public static final String MAE_Requirement = "~wNfOq3dmQ5aG[OC_Activo_Informacion.Requirement]";
+    public static final String MAE_BusinessProcess1 = "~rDTSsCdmQLmP[OC_Activo_Informacion.Business Process-1]";
+    public static final String MAE_OCAlcanceOCActivoInformacion = "~mFsStEdnQvcO[OC_Activo_Informacion.OC_Alcance_OC_Activo_Informacion]";
+    public static final String MAE_Node = "~XWzVN4uoQ9(A[OC_Activo_Informacion.Node]";
+    public static final String MAE_Application = "~Wz3YctemQrSF[OC_Activo_Informacion.Application]";
+    public static final String MAE_ITService = "~1(3YYwemQ1ZF[OC_Activo_Informacion.IT Service]";
+    public static final String MAE_SoftwareTechnology = "~V(3YbzemQfeF[OC_Activo_Informacion.Software Technology]";
+    public static final String MAE_ProgrammingLanguage = "~i(3Yy3fmQzlF[OC_Activo_Informacion.Programming Language]";
+    public static final String MAE_Server = "~wz3Yk5fmQbrF[OC_Activo_Informacion.Server]";
+    public static final String MAE_PersonSystem2 = "~K)3Y26fmQzvF[OC_Activo_Informacion.Person (System)-2]";
+    public static final String MAE_Program = "~kz3Y27fmQb)F[OC_Activo_Informacion.Program]";
+    public static final String MAE_Database = "~2z3Yn8fmQn5G[OC_Activo_Informacion.Database]";
+    public static final String MAE_Device = "~l)3Y4AfmQPBG[OC_Activo_Informacion.Device]";
+    public static final String MAE_Diagram = "~c(3YWBfmQ1HG[OC_Activo_Informacion.Diagram]";
+    public static final String MAE_Book = "~xz3YHDfmQDNG[OC_Activo_Informacion.Book]";
+    public static final String MAE_FunctionalProcess2 = "~u)3YgHfmQPTG[OC_Activo_Informacion.Functional Process-2]";
+    public static final String MAE_Report = "~i)3Y2KfmQ1ZG[OC_Activo_Informacion.Report]";
+    public static final String MAE_Library = "~qehbJTfmQjvG[OC_Activo_Informacion.Library]";
+    public static final String MAE_Control = "~YN9gOjgmQzqD[OC_Activo_Informacion.Control]";
+    public static final String MAE_PhysicalTechnologyComponent = "~2iOtpKEnQjIE[OC_Activo_Informacion.Physical Technology Component]";
+    public static final String MAE_Workstation = "~yqZvKTEnQff9[OC_Activo_Informacion.Workstation]";
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 packages to &apos;ReporteCredicorp/src&apos;&#x0D;&#x0A;- Original project: &apos;Credicorp&apos;&#x0D;&#x0A;- Destination element: &apos;ReporteCredicorp/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Credicorp/src/com.mega.credicorp.riesgos.reportesro.utilerias&#x0D;&#x0A;     Credicorp/src/com.mega.credicorp.riesgos.reportes&#x0D;&#x0A;     Credicorp/src/com.mega.credicorp.riesgos.reportesro" description="Copy packages" destination="=ReporteCredicorp/src" element1="/src&lt;com.mega.credicorp.riesgos.reportesro.utilerias" element2="/src&lt;com.mega.credicorp.riesgos.reportes" element3="/src&lt;com.mega.credicorp.riesgos.reportesro" flags="589830" fragments="3" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1525367440458" version="1.0"/>
+</session>

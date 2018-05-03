@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_api.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Program Files (x86)/MEGA/HOPEX V2/java/doc/mj_api.doc.zip!/mj_api"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/cldc-1.1-java5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/java-rt-jar-stubs-1.5.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

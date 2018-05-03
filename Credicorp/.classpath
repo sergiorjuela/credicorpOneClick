@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_cj.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_bav2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_visio.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_exppt.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_itgrc.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_bdna.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_custo.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_ba.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_apm.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_timexp.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_compl.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_ldc.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_otrad.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_bo.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_bpmn.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_solman.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_solmanconnector.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_aurep.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_hudit.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_rcsa.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_cmdb.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_ic.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_grcu.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_audit.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_xmi.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_asmnt.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_e300.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_qatst.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_hopg.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_bsln.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_arprt.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_dlay.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_webui.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_wfeng.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_anls.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_iexls.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_rdbms.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_gmap.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_gmej.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_umld.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_xpdle.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_toolkit.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mj_api.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/aspose_diagrams.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/ojdbc7.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/jgraphx.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/aspose_pdf.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/aspose_slides.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/lambdaj-2.4-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/aspose_cells.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/aspose_words.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/ChartDirector.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/jackson-all-1.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/dsws-biplatform.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/xbean-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/bcprov-jdk16-146.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/commons-io-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/dsws-bicatalog.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/dsws-common.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/dsws-publish.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/dsws-reportengine.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/dsws-session.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/dsws-webishared-provider.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/gmap-report-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/jackson-utility-1.4.8.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/json.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mpgx-api-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/org.restlet-2.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/restlet-utilities-1.4.8.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/TraceLog.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/TraceLogLog4j.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/wsdl4j-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/wstx-asl-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/xalan.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/XmlSchema-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/axiom-api-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/axiom-impl-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/axis2-kernel-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/axis2-saaj-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/axis2-xmlbeans-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/backport-util-concurrent-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/commons_lang_2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/dom4j_1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/dsws-common-util.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/serializer.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/stax2-api-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/MEGA/HOPEX V2/java/lib/woodstox-core-asl-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/cldc-1.1-java5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/cldcapi11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/commons-iterators-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/ee.minimum-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/java-lang-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/java-rt-jar-stubs-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/ant_gj_java.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
