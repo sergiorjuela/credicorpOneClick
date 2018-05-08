@@ -154,8 +154,7 @@ public class TotalTable {
 			 */
 			for (int x = 1; x <= mAttributeVals.size(); x++) {
 				String valColor = "#"+GRCColorsUtility.Color2Hex(GRCColorsUtility.getRGBfromParam(mAttributeVals.get(Integer.valueOf(x))));
-				JOptionPane.showMessageDialog(null,"color: "+valColor);
-			    this.dimx.addItem(getTitlesTextsWithBackground(mAttributeVals.get(Integer.valueOf(x)).getProp("~n97OO26RrO00[Espa�ol]"), valColor));
+				this.dimx.addItem(getTitlesTextsWithBackground(mAttributeVals.get(Integer.valueOf(x)).getProp("~n97OO26RrO00[Espa�ol]"), valColor));
 			}
 			
 			//Agrega una fila mas la cual totaliza los valores

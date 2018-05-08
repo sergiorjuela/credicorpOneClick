@@ -133,8 +133,9 @@ public class NodesSearch
   public MegaObject nodeToHeatMap(MegaObject assessedObject, MegaRoot root, Date beginDate, Date endDate)
   {
     
-	 /*Definie una consulta que consulta las medidas de conexto donde el objeto evaluado
-	  * sea igual al nombre del que entra como  assessedObject y donde adicionalmente
+	 /*
+	  * Define una consulta que consulta las medidas de conexto donde el objeto evaluado
+	  * sea igual al nombre del que entra como assessedObject y donde adicionalmente
 	  * el contexto de evaluación sea nulo.
 	  */
 	  
